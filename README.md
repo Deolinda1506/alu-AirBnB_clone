@@ -1,4 +1,4 @@
-# alu-AirBnB_clone
+# Alu-AirBnB_clone
 Welcome to the AirBnB clone project! This project aims to build a simplified version of the AirBnB platform, focusing on the management of objects related to accommodations.
 # We will need to:
 
